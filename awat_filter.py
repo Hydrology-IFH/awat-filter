@@ -1,5 +1,3 @@
-# please ensure that the required packages are installed
-# use reticulate to run filter from R
 import pandas as pd
 import numpy as np
 from scipy import stats
